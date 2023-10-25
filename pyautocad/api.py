@@ -37,6 +37,7 @@ from pyautocad.compat import basestring, xrange
 logger = logging.getLogger(__name__)
 
 
+# testing new changes
 class Autocad(object):
     """Main AutoCAD Automation object
     """
